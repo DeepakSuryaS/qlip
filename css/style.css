@@ -1,0 +1,33 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.container {
+  width: auto;
+  height: 100%;
+  margin: 20px 0px 0px 30px;
+  padding: 120px 0px 0px 170px;
+  font-family: 'Kaushan Script', cursive;
+}
+
+#quotehere {
+  font-size: 26px;
+  color: black;
+  margin-bottom: 60px;
+}
+
+
+#getquote {
+  width: 100%;
+  height: 365px;
+  margin-top: 80px;
+  padding: 10px;
+  border: 0px;
+  background-color: #ff2020;
+  font-family: cursive;
+  font-style: oblique;
+  font-weight: bolder;
+  color: white;
+  font-size: 48px;
+}
